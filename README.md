@@ -6,7 +6,7 @@ Martin Kvietok
 Ľubomír Ligocký  
 Monika Tomová  
 
-**Predmet:** Principles of Software Engineering (PSI)  
+**Predmet:** Principles of Software Engineering 
 **Fakulta:** Fakulta informatiky a informačných technológií, STU Bratislava  
 
 ---
